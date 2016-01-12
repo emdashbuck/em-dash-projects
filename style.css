@@ -1,0 +1,30 @@
+/**
+* CSS for Project
+**/
+
+li {
+	list-style-type: none;
+	padding: 2px 0px;
+}
+
+
+ul li:before {
+	content: "__";
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin-right: 5px;
+	
+}
+
+li.x {
+	text-decoration: line-through;
+}
+
+li.x:before {
+	content: "X";
+	padding: 0px 2px;
+	border: 1px solid black;
+	text-decoration: default;
+}
+
