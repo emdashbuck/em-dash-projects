@@ -2,6 +2,16 @@
 * CSS for Project
 **/
 
+#primary {
+	float: left;
+	margin-right: 20px;
+	width: 50%;
+}
+#secondary {
+	float: left;
+	width: 40%;
+}
+
 li {
 	list-style-type: none;
 	padding: 2px 0px;
@@ -38,3 +48,15 @@ li.o:before {
 }
 
 ol.num li {list-style-type: decimal;}
+
+li.maybe:before{
+	content:".";
+	border: none;
+	font-size: 0px;
+	padding: 0px 9px;
+}
+
+li.maybe {
+	font-style: italic;
+	color: #333;
+}
