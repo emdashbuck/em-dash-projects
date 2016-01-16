@@ -24,6 +24,9 @@
 		<li class="x">Design decision: Copypasta test or save/load function?</li>
 		<li class="x">Replace JS tasks with HTML5/JS tasks</li>
 		<li class="x">Replace Save/Load tasks with editable text area tasks</li>
+		<li>Reorganize /projects into projects/MVP ToDo and projects/Em Dash Blog</li>
+		<li>Set up backups</li>
+		<li>Pick storage option: external hard drive, AWS, something else?</li>
 		</ul></li>
 	<li>Week 1: HTML/CSS skeleton<ul>
 		<li class="x">Create HTML/CSS rough draft</li>
@@ -33,15 +36,15 @@
 		</ul></li>
 	<li>Week 2: Em Dash Blog prep<ul>
 		<li>Design<ul>
-			<li>Overall design sketch<ul>
-				<li class="o">Look at Christine portfolio for inspiration</li>
-				<li class="o">Experiment with possible design tweaks on paper, paint.net or Chrome Inspector</li>
+			<li class="x">Overall design sketch<ul>
+				<li class="x">Look at Christine portfolio for inspiration</li>
+				<li class="x">Experiment with possible design tweaks on paper, paint.net or Chrome Inspector</li>
 				</ul>
 			</li>
 			<li>archive.php</li>
-			<li>single-post.php</li>
-			<li>home.php</li>
-			<li>Background image - minimize loading time</li>
+			<li class="o">single-post.php</li>
+			<li class="o">home.php</li>
+			<li class="x">Background image - minimize loading time</li>
 			<li>Get feedback from Christine</li>
 			<li>Set up Google Analytics</li>
 			</ul>
@@ -53,7 +56,7 @@
 			<li>Sidebar content</li>
 			<li>Homepage/intro page update</li>
 			<li>Social media hook/s</li>
-			<li>Pro Tumblr handle, title, and description</li>
+			<li class="o">Pro Tumblr handle, title, and description</li>
 			<li class="o">Pro Tumblr content (~100 words each. If explodes into >500 words, queue for blog instead and link to on Tumblr/Twitter with quote.)</li>
 			</ul>
 		</li>
@@ -62,6 +65,7 @@
 			<li>Facebook - Casual mention on personal account when post goes up</li>
 			<li>Tumblr<ul>
 				<li>Create "pro" tumblr: focus is on creating and my special interests (organization, systems, UI, process improvement, etc)<ul>
+					<li class="o">Sub-tumblr or separate main? Pros and cons?</li>
 					<li>Theme</li>
 					<li>Find tumblrs to follow: Design (graphic, video games, UI), writing (esp technical), coding, crafting, asthetic</li>
 					<li>Fill up the queue: Tag, use content from Twitter/Facebook if nesc, minimum capslock, no og swearing (reblogging swears ok if content is worth it). Balance between Tumblr linguistics and pro speak as best you can.</li>
@@ -74,7 +78,7 @@
 		</li>
 		</ul></li>
 	<li>Week 3: HTML5 Editable Area<ul>
-		<li class="o"><a href="http://www.w3schools.com/html/html5_intro.asp">Brush up on HTML5</a></li>
+		<li><a href="http://www.w3schools.com/html/html5_intro.asp">Brush up on HTML5</a></li>
 		</ul></li>
 	<li>Week 4: HTML5/JS Visuals (Toggle on click dot->check->box)<ul>
 		<li class="maybe"><a href="http://www.codecademy.com">Finish brushing up on JS</a></li>
@@ -153,6 +157,7 @@
 		<li><a href="http://emdashbuck.com/mvp-todo-daily-report-2/">Day 2</a></li>
 		<li><a href="http://emdashbuck.com/mvp-todo-daily-report-3/">Day 3</a></li>
 		<li><a href="http://emdashbuck.com/mvp-todo-daily-report-4/">Day 4</a></li>
+		<li><a href="http://emdashbuck.com/mvp-todo-daily-report-5/">Day 5</a></li>
 		</ol>
 	</li>
 </ol>
