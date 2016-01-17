@@ -2,6 +2,7 @@
 * CSS for Project
 **/
 
+/*Structure*/
 #primary {
 	float: left;
 	margin-right: 20px;
@@ -12,12 +13,12 @@
 	width: 40%;
 }
 
+
+/*List Styling*/
 li {
 	list-style-type: none;
 	padding: 2px 0px;
 }
-
-
 ul li:before {
 	content: "__";
 	border-top: 1px solid black;
@@ -30,7 +31,6 @@ ul li:before {
 li.x {
 	text-decoration: line-through;
 }
-
 li.x:before {
 	content: "X";
 	border: 1px solid black;
@@ -55,7 +55,6 @@ li.maybe:before{
 	font-size: 0px;
 	padding: 0px 9px;
 }
-
 li.maybe {
 	font-style: italic;
 	color: #333;
