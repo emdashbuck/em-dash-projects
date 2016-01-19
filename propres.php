@@ -6,13 +6,17 @@
 </head>
 
 <body>
-<h2>Planning</h2>
-<ul>
-	<li>Goals</li>
-	<li>Scope</li>
+<h1>Milestone 1: Planning</h1>
+<div id="primary">
+<h2>To Do</h2>
+<h3>Road Map</h3><ul>
+	<li class="x">Goal/s</li>
+	<li class="o">Scope</li>
 	<li>Milestones</li>
+	<li>Update todo list to match road map</li>
 </ul>
-<h2>Em Dash Blog</h2>
+
+<h3>Em Dash Blog</h3>
 <ul>
 <li>Set up backups</li>
 <li>Pick storage option: external hard drive, AWS, something else?</li>
@@ -23,7 +27,9 @@
 				</ul>
 			</li>
 			<li>archive.php</li>
-			<li class="o">single-post.php</li>
+			<li class="o">single-post.php<ul>
+				<li>Prevous/Next Post links</li>
+				</ul></li>
 			<li class="o">home.php</li>
 			<li class="x">Background image - minimize loading time</li>
 			<li>Get feedback from Christine</li>
@@ -83,7 +89,12 @@ Side-Tumblr: Choice Iteration /Choice Analysis- all about habit change
 Side-Tumblr: Improvement Process - all about process improvement and what that looks like inside organizations and at home
 Side-Tumblr: Mind's Eye Architecture (Inception fan side blog? I DON'T KNOW IT JUST SOUNDS COOL)
 Other cool names: Mind's Eye View, the right choice depends on your frame of reference, Mind's Eye Context, Choice Context, enthusiastic progression, interests iteration, personal infrastructure
-
+</div>
+<div id="secondary">
+<h2>Road Map</h2>
+<h3>Goal</h3>
+To enhance my relationships with my potential clients, potential coworkers, community, and myself through the creation of online content.
+</div>
 
 </body>
 </html>

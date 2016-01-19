@@ -6,10 +6,12 @@
 </head>
 
 <body>
-<div id="app">
-</div>
+<h1>Milestone 2: Input and Display</h1>
 <div id="primary">
 <h2>To Do List:</h2>
+<ul>
+	<li class="o">Clean up todo list to match new plan</li>
+</ul>
 <p>
 <ol>
 	<li class="x">Week 1: Planning/Setup </li>
@@ -60,40 +62,37 @@
 		</ol></li>
 	<li>Mike suggestion: separate section for one-off "special" tasks that require going outside of normal routines</li>
 	<li>Create template/s for these project pages in order to avoid hand-coding in the future</li>
+	<li>List of Thoughtbuckets with links so I can clean them out regularly</li>
+	<li>Thoughtbucket funnel and filter system into one list that's easy to sort</li>
 </ol>
 </p>
 </div>
 <div id="secondary">
-<h2>Project Milestones</h2>
+<h2>Project Roadmap</h2>
+<h3>Goal</h3>
+To practice creating organizational tools.
+
+<h3>Scope (aka Features List)</h3>
+<strong>Primary</strong><ol>
+	<li>Display (Box/dot toggle, string, delete trigger)</li>
+	<li>Input (click empty line at bottom to add)</li>
+	<li>Check boxes (click to change line item formatting)</li>
+	<li>Delete (click to remove line item from memory and display)</li>
+	<li>Data storage (keep user data between uses)</li>
+	</ol></li>
+<strong>Secondary</strong><ol>
+	<li>Edit (click line item to edit in place)</li>
+	<li>Dot (click to change line item formatting)</li>
+	<li>Basic Formatting (Markdown - allows for headers - easier than multiple lists and moving items)</li>
+		</ol></li>
+<h3>Milestones:</h3>
 <ol>
-	<li>Week 1: HTML/CSS skeleton</li>
-	<li>Week 2: Em Dash Blog prep</li>
-	<li>Week 3: HTML5 editable text area</li>
-	<li>Week 4: HTML5/JS Visuals (Toggle on click dot->check->box)</li>
-	<li>Week 5: HTML5/JS Delete button</li>
-	<li>Week 6: Testing</li>
-	<li>Week 7: UI Design & Dev</li>
-	<li>Week 8:</li>
-	<li>Week 9:</li>
-	<li>Week 10:</li>
-	<li>Week 11: Final Tweaks</li>
-	<li>Week 12: Launch</li>
+	<li class="x">Week 1: Planning</li>
+	<li>Week 2: Input and Display</li>
+	<li>Week 3: Toggle Box Dot and Trash</li>
+	<li>Week 4: Local Data Storage</li>
+	<li>Week 5: Autosave and Delete</li>
 </ol>
-	
-<h2>Minimum Viable ToDo List Features:</h2>
-<p>
-	<ul>
-		<li>List item display (HTML5/JS/CSS)</li>
-		<li>List item input (HTML5)</li>
-		<li>List item add (HTML5)</li>
-		<li>List item delete (HTML5/JS)</li>
-	</ul>
-	<ul>
-		<li>Toggle list checkbox (HTML5/CSS/JS)</li>
-		<li>Toggle list dot (HTML5/CSS/JS)</li>
-		<li>List item edit (HTML5)</li>
-	</ul>
-</p>
 
 <h2>Other People's Todo Lists</h2>
 https://www.blanclist.com/app/ (Mark Forster FV/P compliant)

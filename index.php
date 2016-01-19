@@ -6,80 +6,58 @@
 </head>
 
 <body>
-<h1>This Week's Milestone: MVP ToDo Planning</h1>
+<h1>This Week's Milestone: POP 1 - Planning</h1>
+<h2>This Week's Secondary Goal: Project Management Meta-Project Planning</h2>
+<h3>This Week's Stretch Goal: MVP ToDo 2 - Input and Display</h3>
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li class="x">Reorganize /projects into projects/MVP ToDo and projects/Professional Online Presence</li>
-	<li class="x">Pro Tumblr handle, title, and description</li>
-	<li class="o">Pro Tumblr content, 5 pieces</li>
-	<li class="o">single-post.php</li>
-	<li class="o">home.php</li>
+	<li class="x">POP Roadmap: Goal/s</li>
+	<li class="x">PM Meta: Goal/s</li>
 </ul>
 
 <h2>Current Projects</h2>
 <ol>
 	<li><a href="http://www.emdashbuck.com/projects/mvptodo.php">Minimum Viable Todo List</a><ul>
-		<li>Week 1: Planning</li>
-		<li>Week 2: HTML/CSS skeleton</li>
-		<li>Week 3: HTML5 editable text area</li>
-		<li>Week 4: HTML5/JS Visuals (Toggle on click dot->check->box)</li>
-		<li>Week 5: HTML5/JS Delete button</li>
-		<li>Week 6: Testing</li>
-		<li>Week 7: UI Design & Dev</li>
-		<li>Week 8:</li>
-		<li>Week 9:</li>
-		<li>Week 10:</li>
-		<li>Week 11: Final Tweaks</li>
-		<li>Week 12: Launch</li>
+		<li class="x">Week 1: Planning</li>
+		<li>Week 2: Input and Display</li>
+		<li>Week 3: Toggle Box Dot and Trash</li>
+		<li>Week 4: Local Data Storage</li>
+		<li>Week 5: Autosave and Delete</li>
 		</ul></li>
 	<li><a href="http://www.emdashbuck.com/projects/propres.php">Professional Online Presence</a><ul>
-		<li></li>
+		<li>Week 1: Planning</li>
+		</ul></li>
+	<li><a href="http://www.emdashbuck.com/projects/pm.php">Project Managment (Woah, meta)</a><ul>
+		<li>Week 1: Planning</li>
 		</ul></li>
 </ol>
 
 <h2>Done This Week</h2>
-<ol>
-	<li>Setup, etc.<ul>
-		<li class="x">Get GitHub linked to projects folder in DropBox (technically redundant but provides two different services)</li>
-		<li class="x">Set alarm on phone for daily project checkin (8:00 pm?)</li>
-		<li class="x">Schedule weekly blog post time (Sunday?)</li>
-		<li class="x">Create project milestones</li>
-		<li class="x">Schedule milestones</li>
-		<li class="x">Clean up task list to align with milestones</li>
-		<li class="maybe">Create Google Calendar for milestones?</li>
-		<li class="x">Weekly Review Setup</li>
-		<li class="x">Design decision: Copypasta test or save/load function?</li>
-		<li class="x">Replace JS tasks with HTML5/JS tasks</li>
-		<li class="x">Replace Save/Load tasks with editable text area tasks</li>
-		</ul></li>
-	<li>Week 1: Planning, HTML/CSS skeleton<ul>
-		<li class="x">Create HTML/CSS rough draft</li>
-		<li class="x">Display/Content</li>
-		<li class="x">Checkbox</li>
-		<li class="x">Dot</li>
-		</ul></li>
+<ol><li></li></ol>
 </div>
 <div id="secondary">
 <h2>Daily and Weekly Project Reports</h2>
 <p><em>Goal vs Happened, Notes, Tomorrow/Next Week's Goal, GitHub Publish, Twitter post</em></p>
 <ol>
-	<li>Week 1<ol>
+	<li><a href="http://emdashbuck.com/projects-weekly-report-1/">Week 1</a><ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-1/">Day 1</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-2/">Day 2</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-3/">Day 3</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-4/">Day 4</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-5/">Day 5</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-6/">Day 6</a></li>
-		</ol>
-	</li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-7/">Day 7</a></li>
+		</ol></li>
+	<li>Week 2<ol>
+		<li><a href="http://emdashbuck.com/projects-daily-report-8/">Day 8</a></li>
 </ol>
 
 <h2>Weekly Project Review</h2>
 <ol class="num">
 	<li>Pack bag (Make sure I have everything that keeps me focused and comfortable with me)</li>
 	<li>Shower &amp; dress (important for mindset)</li>
-	<li>Travel to Working Location  (Not home, so easier to do work instead of relax/play)<ul>
+	<li>Travel to Working Location (Not home, so easier to do work instead of relax/play)<ul>
 		<li>Coffee Shop</li>
 		<li>Desk (Basically pretend to be at coffee shop)<ol>
 			<li>Put everything other than tech hookups elsewhere</li>
