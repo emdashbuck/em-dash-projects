@@ -12,8 +12,9 @@
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li class="x">POP Roadmap: Goal/s</li>
-	<li class="x">PM Meta: Goal/s</li>
+	<li>POP Roadmap: Scope</li>
+	<li>PM Meta: Scope</li>
+	<li>MVP ToDo: Clean up todo list to match new plan</li>
 </ul>
 
 <h2>Current Projects</h2>
@@ -34,7 +35,10 @@
 </ol>
 
 <h2>Done This Week</h2>
-<ol><li></li></ol>
+<ol>
+	<li class="x">POP Roadmap: Goal/s</li>
+	<li class="x">PM Meta: Goal/s</li>
+</ol>
 </div>
 <div id="secondary">
 <h2>Daily and Weekly Project Reports</h2>
