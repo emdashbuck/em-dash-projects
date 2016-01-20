@@ -11,7 +11,7 @@
 <h2>To Do</h2>
 <h3>Road Map</h3><ul>
 	<li class="x">Goal/s</li>
-	<li class="o">Scope</li>
+	<li class="x">Scope</li>
 	<li>Milestones</li>
 	<li>Update todo list to match road map</li>
 </ul>
@@ -93,7 +93,23 @@ Other cool names: Mind's Eye View, the right choice depends on your frame of ref
 <div id="secondary">
 <h2>Road Map</h2>
 <h3>Goal</h3>
-To enhance my relationships with my potential clients, potential coworkers, community, and myself through the creation of online content.
+To enhance my relationships with my potential clients, potential coworkers, community, and myself through the creation of online content/pieces of asymmetrical communication.
+<h3>Scope</h3>
+<ul>
+	<li>52 &gt;750 word pieces suitable for evergreen blog publishing</li>
+	<li>300 &lt;200 word pieces suitable for Tumblr publishing</li>
+	<li>Solidified writing habit that assures continual creation<ul>
+		<li>I will know I have met this project requirement when I have written x number of words x number of days in a row with x% misses. (Milestones will provide these numbers).</li>
+		</ul></li>
+	<li>Structures that support reliable weekly/tri-weekly/daily publishing<ul>
+		<li>SOPs and checklists for weekly, tri-weekly, and daily publishing</li>
+		<li>Plans/backups for mistakes and emergencies (e.g. backup posts if a post doesn't happen, etc.)</li>
+		</ul></li>
+	<li>Professional website Pages copy<ul>
+		<li>About Me/Welcome/Contact</li>
+		<li>Services? (could write and keep private for now).</li>
+		</ul></li>
+</ul>
 </div>
 
 </body>

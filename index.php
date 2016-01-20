@@ -12,9 +12,9 @@
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li>POP Roadmap: Scope</li>
-	<li>PM Meta: Scope</li>
-	<li>MVP ToDo: Clean up todo list to match new plan</li>
+	<li class="x">POP Roadmap: Scope</li>
+	<li class="x">PM Meta: Scope</li>
+	<li class="x">MVP ToDo: Clean up todo list to match new plan</li>
 </ul>
 
 <h2>Current Projects</h2>
@@ -55,6 +55,7 @@
 		</ol></li>
 	<li>Week 2<ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-8/">Day 8</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-9/">Day 9</a></li>
 </ol>
 
 <h2>Weekly Project Review</h2>
