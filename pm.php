@@ -10,6 +10,12 @@
 <div id="primary">
 <h2>To Do</h2>
 <ul>
+	<li class="o">Research<ul>
+		<li>Look at Wishcraft</li>
+		<li>Look at What Color Is Your Parachute</li>
+		<li>Write about what "future success" might mean</li>
+		</ul></li>
+</ul>
 	<li>Roadmap<ul>
 		<li class="x">Goal Sentence/s</li>
 		<li class="x">Scope</li>

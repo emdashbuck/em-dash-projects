@@ -12,13 +12,16 @@
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li class="x">POP Roadmap: Scope</li>
-	<li class="x">PM Meta: Scope</li>
-	<li class="x">MVP ToDo: Clean up todo list to match new plan</li>
+	<li>POP Roadmap: Milestones</li>
+	<li>PM Meta: Milestones</li>
+	<li>MVP ToDo: Research how HTML5 Text Areas work</li>
 </ul>
 
 <h2>Current Projects</h2>
 <ol>
+	<li><a href="http://www.emdashbuck.com/projects/pm.php">Project Management (Woah, meta)</a><ul>
+		<li>Week 1: Planning</li>
+		</ul></li>
 	<li><a href="http://www.emdashbuck.com/projects/mvptodo.php">Minimum Viable Todo List</a><ul>
 		<li class="x">Week 1: Planning</li>
 		<li>Week 2: Input and Display</li>
@@ -28,16 +31,16 @@
 		</ul></li>
 	<li><a href="http://www.emdashbuck.com/projects/propres.php">Professional Online Presence</a><ul>
 		<li>Week 1: Planning</li>
-		</ul></li>
-	<li><a href="http://www.emdashbuck.com/projects/pm.php">Project Managment (Woah, meta)</a><ul>
-		<li>Week 1: Planning</li>
-		</ul></li>
+		</ul></li>	
 </ol>
 
 <h2>Done This Week</h2>
 <ol>
 	<li class="x">POP Roadmap: Goal/s</li>
 	<li class="x">PM Meta: Goal/s</li>
+	<li class="x">POP Roadmap: Scope</li>
+	<li class="x">PM Meta: Scope</li>
+	<li class="x">MVP ToDo: Clean up todo list to match new plan</li>
 </ol>
 </div>
 <div id="secondary">
@@ -56,6 +59,7 @@
 	<li>Week 2<ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-8/">Day 8</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-9/">Day 9</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-10/">Day 10</a></li>
 </ol>
 
 <h2>Weekly Project Review</h2>
