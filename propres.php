@@ -78,6 +78,17 @@
 			</ol>
 		</li>
 		</ul>
+<li>Repeating Tasks<ul>
+	<li>Final edit of last week's Weekly Report. (Need time to pass and come back with fresh eyes.)</li>
+	<li>Final read-through and publish. (Separate from final edit in order to catch any new errors etc that may have been introduced during edit.)</li>
+	<li>Social Media Maintenance (accountability, maintain online presence)<ol>
+		<li>Twitter: Announce post</li>
+		<li>Facebook: Casual excited post</li>
+		<li>Pro Tumblr: Announce post, refill queue (goal > 250)</li>
+		<li>Reply to all pro messages (email, twitter, facebook, pro tumblr)</li>
+		</ol></li>
+	</ul></li>
+
 </ul>
 <h2>Ideas</h2>
 Side-Tumblr: Delightful-Interface where I post nothing but beautiful UI
@@ -110,6 +121,8 @@ To enhance my relationships with my potential clients, potential coworkers, comm
 		<li>Services? (could write and keep private for now).</li>
 		</ul></li>
 </ul>
+
+<a href="https://investigateiterateimprove.wordpress.com/">Personal Infrastructure at WordPress.com</a>
 </div>
 
 </body>

@@ -17,7 +17,7 @@
 	<li>MVP ToDo: Research how HTML5 Text Areas work</li>
 </ul>
 
-<h2>Current Projects</h2>
+<h2>Open Projects</h2>
 <ol>
 	<li><a href="http://www.emdashbuck.com/projects/pm.php">Project Management (Woah, meta)</a><ul>
 		<li>Week 1: Planning</li>
@@ -60,42 +60,9 @@
 		<li><a href="http://emdashbuck.com/projects-daily-report-8/">Day 8</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-9/">Day 9</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-10/">Day 10</a></li>
-</ol>
-
-<h2>Weekly Project Review</h2>
-<ol class="num">
-	<li>Pack bag (Make sure I have everything that keeps me focused and comfortable with me)</li>
-	<li>Shower &amp; dress (important for mindset)</li>
-	<li>Travel to Working Location (Not home, so easier to do work instead of relax/play)<ul>
-		<li>Coffee Shop</li>
-		<li>Desk (Basically pretend to be at coffee shop)<ol>
-			<li>Put everything other than tech hookups elsewhere</li>
-			<li>Put bag next to chair on the floor</li>
-			<li>Make fancy drink</li>
-			</ol>
-		</li>
-		</ul>
-	</li>
-	<li>Write general idea about how week went, how the weekend went, etc. (Journalling is a standard warmup for me, gets me in the right mindset and also allows me to write out anything that's on my mind and could get in the way.)</li>
-	<li>Read Daily Reports and take notes. Mark questions and conclusions strongly so they'll get answered and included. (Review, and see if my general idea of how the week went matches my records of how the week went. Questions and conclusions that occur during this review will form the backbone of the Weekly Report.)</li>
-	<li>Rough out Weekly Report. May include the following topics (will probably need to be adjusted as I figure out how to write these):<ul>
-		<li>Intro to week's milestone, how the milestone relates to the goal of the project</li>
-		<li>Whether or not the milestone is complete and why</li>
-		<li>Breakdown what happened by task if necessary</li>
-		<li>Any meta conclusions about the system or suggested adjustments</li>
-		<li>Adjustments to the timeline and next week's milestone</li>
-		<li>Conclusion: What needs work, what went well, what's next.</li>
-		</ul>
-	</li>
-	<li>Final edit of last week's Weekly Report. (Need time to pass and come back with fresh eyes.)</li>
-	<li>Final read-through and publish. (Separate from final edit in order to catch any new errors etc that may have been introduced during edit.)</li>
-	<li>Social Media Maintenance (accountability, maintain online presence)<ol>
-		<li>Twitter: Announce post</li>
-		<li>Facebook: Casual excited post</li>
-		<li>Pro Tumblr: Announce post, refill queue (goal > 250)</li>
-		<li>Reply to all pro messages (email, twitter, facebook, pro tumblr)</li>
-		</ol></li>
-	<li>Rewarding activity/item, e.g. dance party, danish, etc. (Important for habit reinforcement! Do not skip!)</li>
+		<li>Thursday</li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-11/">Day 11</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-12/">Day 12</a></li>
 </ol>
 </div>
 </body>
