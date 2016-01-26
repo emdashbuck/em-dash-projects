@@ -23,7 +23,9 @@
 		<li>Box, dot, del</li>
 		<li>todoapp.php</li>
 	</ul></li>
-	<li>HTML5 Text Area</li>
+	<li>HTML5 Text Area<ul>
+		<li>Research how Text Areas work</li>
+		</ul></li>
 	<li>Clickable boxes/dots</li>
 	<li>If boxes/dots can't be assigned to lines of text area, and/or lines of text area can't be individually styled:<ul>
 		<li>Submit button</li>

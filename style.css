@@ -59,3 +59,28 @@ li.maybe {
 	font-style: italic;
 	color: #333;
 }
+
+/*Spoon Calendar*/
+
+.spooncal td {padding: 5px;}
+.spooncal td.g {background-color: #00bb64;}
+.spooncal td.y {background-color: #ffdd60;}
+.spooncal td.r {background-color: #ee6055;}
+#BB0013
+/*Google colors
+.spooncal td.g {background-color: #008744; color: #fff;}
+.spooncal td.y {background-color: #ffa700; color: #fff;}
+.spooncal td.r {background-color: #d62d20; color: #fff;}
+*/
+
+/*Looks okay but could be better
+.spooncal td.g {background-color: #9ed670;}
+.spooncal td.y {background-color: #e8d174;}
+.spooncal td.r {background-color: #d64d4d;}
+*/
+
+/* og colors
+.spooncal td.g {background-color: #009a44;}
+.spooncal td.y {background-color: #fedd00;}
+.spooncal td.r {background-color: #ef3340;}
+*/

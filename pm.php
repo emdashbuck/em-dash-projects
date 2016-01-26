@@ -6,23 +6,8 @@
 </head>
 <body>
 
-<h1>Milestone 1: Planning</h1>
+<h1>Project Managment Documentation and Templates</h1>
 <div id="primary">
-<h2>To Do</h2>
-<ul>
-	<li class="o">Research<ul>
-		<li>Look at Wishcraft</li>
-		<li>Look at What Color Is Your Parachute</li>
-		<li>Write about what "future success" might mean</li>
-		</ul></li>
-</ul>
-	<li>Roadmap<ul>
-		<li class="x">Goal Sentence/s</li>
-		<li class="x">Scope</li>
-		<li>Milestones</li>
-		</ul></li>
-</ul>
-
 <h2>Possible Future Projects</h2>
 <ol>
 	<li>Extra MVP ToDo Features<ol>
@@ -48,14 +33,14 @@
 		</ol></li>
 	<li>For fun: "The Walk"</li>
 	<li>Knit a sweater</li>
-	<li>
+	<li>Automate Project Report links + Spoon Report form (WP custom field?)</li>
 </ol>
 </div>
 
 <div id="secondary">
 <h2>Roadmap</h2>
 <h3>Goal</h3>
-To promote my personal wellbeing and satisfaction through the planning and execution of projects, which will lead to future success.
+<p>To promote my personal wellbeing and satisfaction through the planning and execution of projects, which will lead to future success.</p>
 <h3>Scope</h3>
 <ul>
 	<li>Planning templates/SOPs/checklists</li>
@@ -63,6 +48,9 @@ To promote my personal wellbeing and satisfaction through the planning and execu
 	<li>Structures and habits that support daily progress and check-ins, as well as frequent introspection</li>
 </ul>
 <hr>
+<h3>Project Kanban</h3>
+<p>Any given week I may work on two or fewer projects, at least one of which must be fun.</p>
+
 <h2>Templates</h2>
 <h3>Daily Report</h3>
 <ol class="num">
@@ -72,20 +60,21 @@ To promote my personal wellbeing and satisfaction through the planning and execu
 	<li>How I Feel</li>
 	<li>Tomorrow's Goals</li>
 </ol>
-<h3>Project Kanban</h3>
-Any given week there are two designated projects: Primary and Secondary.
-<em>Currently testing:</em> Primary is "important," i.e., its rewards are mostly in the future. Secondary is "fun," i.e., its rewards are mostly right now (generally speaking I find whatever activity it is to be fun). No sneaking a second Primary in by claiming that it's fun! Unless it actually is fun, in which case carry on. Fun projects may become Primary for a week if I'm in a not-fun part of it and it's important that the fun project be completed.
+
+<h3><a href="http://www.emdashbuck.com/projects/template.php">Project Template</a></h3>
+
 <h3>Roadmap</h3>
 <h4>Goal Sentence/s</h4>
-This is what I want to get out of this project. It may be tangible or intangible. This is the <i>why,</i> and often includes the big-picture <i>how.</i>
+<p>This is what I want to get out of this project. It may be tangible or intangible. This is the <i>why,</i> and often includes the big-picture <i>how.</i></p>
 <h4>Specs/Scope</h4>
-This is what the project covers. This is the <i>how,</i>with a bit of the big-picture <i>what.</i>
+<p>This is what the project covers. This is the <i>how,</i>with a bit of the big-picture <i>what.</i></p>
 <h4>Milestones</h4>
-This is a list of understandable/obvious and achievable pieces of the specs/scope listed in chronological order. This is the small-picture <i>what</i> and a bit of the <i>how, </i>as well as <i>when.</i>
+<p>This is a list of understandable/obvious and achievable pieces of the specs/scope listed in chronological order. This is the small-picture <i>what</i> and a bit of the <i>how, </i>as well as <i>when.</i></p>
 <br>
 <p>All of these things should be written out and kept where I can refer to them often during the course of the project, especially when making decisions.</p>
 
-<h2>Weekly Project Review</h2>
+<h2>Checklists</h2>
+<h3>Weekly Project Review</h3>
 <ol class="num">
 	<li>Pack bag (Make sure I have everything that keeps me focused and comfortable with me)</li>
 	<li>Shower &amp; dress (important for mindset)</li>
