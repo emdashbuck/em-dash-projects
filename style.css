@@ -28,17 +28,20 @@ ul li:before {
 	
 }
 
-li.x {
+.list button {background-color:#fff; border-radius:0px; border:1px solid black;}
+.list p.x {text-decoration: line-through;}
+
+li.x{
 	text-decoration: line-through;
 }
-li.x:before {
+li.x:before{
 	content: "X";
 	border: 1px solid black;
 	text-decoration: default;
 	padding: 0px 2px;
 }
 
-li.o:before {
+li.o:before{
     content: ".";
     border: 9px solid black;
     background-color: black;

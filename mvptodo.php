@@ -21,7 +21,7 @@
 <ul>
 	<li>HTML/CSS Rough Draft<ul>
 		<li>Box, dot, del</li>
-		<li>todoapp.php</li>
+		<li><a href="http://www.emdashbuck.com/projects/todo.php">todo.php</a></li>
 	</ul></li>
 	<li>HTML5 Text Area<ul>
 		<li>Research how Text Areas work</li>

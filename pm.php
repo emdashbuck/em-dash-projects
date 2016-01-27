@@ -55,6 +55,27 @@
 <h3>Daily Report</h3>
 <ol class="num">
 	<li>What happened/random thoughts/warmup</li>
+	<li>Rate the following for today in spoons:<ul>
+		<li>Actions<ul>
+			<li>Work<ul>
+				<li>Paid (20)</li>
+				<li>UFYH (20)</li>
+				<li>Projects (20)</li>
+				<li>Hobbies (20)</li>
+				</ul></li>
+			<li>Social (50)</li>
+			<li>Emotions, e.g. anxiety, depression (20)</li>
+			<li>Input, e.g. construction noise (20)</li>
+			<li>Travel (20)</li>
+			<li>Pain (50)</li>
+			</ul></li>
+		<li>Rest<ul>
+			<li>Sleep, e.g. how rested you are today (50)</li>
+			<li>Food (30)</li>
+			<li>Relaxing activities, e.g. video games, reading (20)</li>
+			<li>Snuggling or other positive Mike interactions (20)</li>
+			</ul></li>
+		</ul></li>		
 	<li>Bulleted list of goals under "complete" and/or "incomplete" with notes</li>
 	<li>Any task that requires planning/thinking writing space, e.g. "Scope"</li>
 	<li>How I Feel</li>
