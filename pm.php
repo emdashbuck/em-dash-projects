@@ -34,6 +34,7 @@
 	<li>For fun: "The Walk"</li>
 	<li>Knit a sweater</li>
 	<li>Automate Project Report links + Spoon Report form (WP custom field?)</li>
+	<li>Food stamps</li>
 </ol>
 </div>
 
@@ -60,6 +61,7 @@
 			<li>Work<ul>
 				<li>Paid (20)</li>
 				<li>UFYH (20)</li>
+				<li>Errands (20)</li>
 				<li>Projects (20)</li>
 				<li>Hobbies (20)</li>
 				</ul></li>
@@ -117,6 +119,7 @@
 		<li>Adjustments to the timeline and next week's milestone</li>
 		<li>Conclusion: What needs work, what went well, what's next.</li>
 		</ul></li>
+	<li>Read Project Ideas list on pm.php</li>
 	<li>Choose next week's projects (see Project Kanban)</li>
 	<li>If not doing a Daily Report, choose Tomorrow's Goals</li>
 	<li>Rewarding activity/item, e.g. dance party, danish, etc. (Important for habit reinforcement! Do not skip!)</li>

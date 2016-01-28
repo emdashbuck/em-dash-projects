@@ -55,6 +55,7 @@
 	<li>Week 3<ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-13/">Day 13</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-14/">Day 14</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-15/">Day 15</a></li>
 </ol>
 </div>
 </body>
