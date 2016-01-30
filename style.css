@@ -13,6 +13,9 @@
 	width: 40%;
 }
 
+.leftfloat {float:left; margin-right: 5%;}
+.leftfloat ol:first-child {padding:0px; margin:0px;}
+
 
 /*List Styling*/
 li {
@@ -29,7 +32,15 @@ ul li:before {
 }
 
 .list button {background-color:#fff; border-radius:0px; border:1px solid black;}
+
 .list p.x {text-decoration: line-through;}
+.list p.x button {background-image:url('/projects/inc/X.png'); background-size:100%;}
+
+.list p.o {font-weight: bold;}
+.list p.o button {background-color:#000; border-radius:100px;}
+
+.list p.del {display: none;}
+
 
 li.x{
 	text-decoration: line-through;
@@ -69,7 +80,7 @@ li.maybe {
 .spooncal td.g {background-color: #00bb64;}
 .spooncal td.y {background-color: #ffdd60;}
 .spooncal td.r {background-color: #ee6055;}
-#BB0013
+/*#BB0013
 /*Google colors
 .spooncal td.g {background-color: #008744; color: #fff;}
 .spooncal td.y {background-color: #ffa700; color: #fff;}
@@ -87,3 +98,7 @@ li.maybe {
 .spooncal td.y {background-color: #fedd00;}
 .spooncal td.r {background-color: #ef3340;}
 */
+
+/*Phone Notecard*/
+#phonecard {margin-top: 16em;}
+#phonecard h1 {font-size: 8em;}

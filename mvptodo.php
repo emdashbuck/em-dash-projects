@@ -20,17 +20,13 @@
 <a href="http://www.w3schools.com/html/html5_intro.asp">HTML5</a>
 <ul>
 	<li>HTML/CSS Rough Draft<ul>
-		<li>Box, dot, del</li>
-		<li><a href="http://www.emdashbuck.com/projects/todo.php">todo.php</a></li>
+		<li class="x">Box, x, o, del</li>
+		<li class="x"><a href="http://www.emdashbuck.com/projects/todo.php">todo.php</a></li>
 	</ul></li>
-	<li>HTML5 Text Area<ul>
-		<li>Research how Text Areas work</li>
+	<li class="x">HTML5 Text Area<ul>
+		<li class="x">Research how Text Areas work</li>
 		</ul></li>
-	<li>Clickable boxes/dots</li>
-	<li>If boxes/dots can't be assigned to lines of text area, and/or lines of text area can't be individually styled:<ul>
-		<li>Submit button</li>
-		<li>JS Display</li>
-		</ul></li>
+	<li class="x">Clickable boxes/dots</li>
 </ul>
 <h3>Week 3: Toggle Box Dot Del and Undo</h3>
 <ul>

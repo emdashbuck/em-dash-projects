@@ -10,7 +10,7 @@
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li>CSS .list p.x, .list p.x button (canvas diagonal lines?)</li>
+	<li>Recharging Station setup (not in this repo)</li>
 </ul>
 
 <h2>Open Projects</h2>
@@ -28,11 +28,15 @@
 	<li class="x">todo.php</li>
 	<li class="x">Weekly Review</li>
 	<li class="x">wishcraft.php</li>
+	<li class="x">CSS .list p.x, .list p.x button</li>
+	<li class="x">CSS .list p.o, .list p.o button</li>
+	<li class="x">CSS .list .del</li>
 </ol>
 </div>
 <div id="secondary">
 <h2><a href="http://www.emdashbuck.com/projects/pm.php">Project Management Meta</a></h2>
 <h2>Daily and Weekly Project Reports</h2>
+<div class="leftfloat">
 <ol>
 	<li><a href="http://emdashbuck.com/projects-weekly-report-1/">Week 1</a><ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-1/">Day 1</a></li>
@@ -56,7 +60,16 @@
 		<li><a href="http://emdashbuck.com/projects-daily-report-13/">Day 13</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-14/">Day 14</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-15/">Day 15</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-16/">Day 16</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-17/">Day 17</a></li>
 </ol>
+</div>
+<div class="leftfloat">
+</div>
+<div class="leftfloat">
+</div>
+<div class="leftfloat">
+</div>
 </div>
 </body>
 </html>
