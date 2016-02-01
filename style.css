@@ -14,10 +14,13 @@
 }
 
 .leftfloat {float:left; margin-right: 5%;}
-.leftfloat ol:first-child {padding:0px; margin:0px;}
+.leftfloat>ol:first-of-type{padding:0px; margin:0px;}
 
+/*Global Styling*/
+h1 {margin: 0.25em 0em;}
 
-/*List Styling*/
+/*List Styling Rough Draft*/
+
 li {
 	list-style-type: none;
 	padding: 2px 0px;
@@ -30,17 +33,6 @@ ul li:before {
 	margin-right: 5px;
 	
 }
-
-.list button {background-color:#fff; border-radius:0px; border:1px solid black;}
-
-.list p.x {text-decoration: line-through;}
-.list p.x button {background-image:url('/projects/inc/X.png'); background-size:100%;}
-
-.list p.o {font-weight: bold;}
-.list p.o button {background-color:#000; border-radius:100px;}
-
-.list p.del {display: none;}
-
 
 li.x{
 	text-decoration: line-through;
@@ -73,6 +65,26 @@ li.maybe {
 	font-style: italic;
 	color: #333;
 }
+
+
+
+/*List Styling*/
+.list {width: 40%;}
+.list button {background-color:#fff; border-radius:0px; border:1px solid black; cursor:pointer;}
+/*.list p {display: inline-block;}*/
+
+.list p.x {text-decoration: line-through;}
+.list p.x button {background-image:url('/projects/inc/X.png'); background-size:100%;}
+
+.list p.o {font-weight: bold;}
+.list p.o button {background-color:#000; border-radius:100px;}
+
+.list i.fa-trash-o {margin-left: 5px; float:right;}
+.list i.fa-trash-o:hover {color:#ee6055;cursor:pointer;}
+
+.list p.del {display: none;}
+
+
 
 /*Spoon Calendar*/
 

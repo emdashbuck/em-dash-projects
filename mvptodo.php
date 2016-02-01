@@ -19,7 +19,7 @@
 <h3>Week 2: Input and Display</h3>
 <a href="http://www.w3schools.com/html/html5_intro.asp">HTML5</a>
 <ul>
-	<li>HTML/CSS Rough Draft<ul>
+	<li class="x">HTML/CSS Rough Draft<ul>
 		<li class="x">Box, x, o, del</li>
 		<li class="x"><a href="http://www.emdashbuck.com/projects/todo.php">todo.php</a></li>
 	</ul></li>
@@ -30,8 +30,11 @@
 </ul>
 <h3>Week 3: Toggle Box Dot Del and Undo</h3>
 <ul>
-	<li>Toggle styling of line item on click - box, dot, del</li>
-	<li>Undo function</li>
+	<li class="x">Toggle styling of line item on click - box, dot, del</li>
+	<li>Undo<ul>
+		<li>Make button</li>
+		<li>Toggle del (button and ctnrl-z)</li>
+		<li>Undo recent text input (hook button to cntrl-z)</li>
 </ul>
 <h3>Week 4: Local Data Storage</h3>
 <ul>
