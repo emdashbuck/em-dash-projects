@@ -72,22 +72,33 @@ The history.back() method loads the previous URL in the history list.
 
 This is the same as clicking the Back button in the browser.
 */
-
-/*This function is meant to be run when the user clicks one of the list buttons.
-
-If a button inside of an HTML #list element is clicked, check its parent element class (pec).*/
-
-function listButtonClick($pid) {
-	var $pec = document.getElementById($pid).className;
+/*For saving changes later:
+http://stackoverflow.com/questions/1391278/contenteditable-change-events
+*/
+/*
+*This function is meant to be run when the user clicks one of the list buttons. Will toggle the class of the parent element, the id of which is passed to the function on click.
+*/
+function listButtonClick($parentid) {
+	var $pec = document.getElementById($parentid).className;
 	switch($pec) {
-    case "o": document.getElementById($pid).className = "x";
+    case "o": document.getElementById($parentid).className = "x";
         break;
-    case "x": document.getElementById($pid).className = "";
+    case "x": document.getElementById($parentid).className = "";
         break;
-    default: document.getElementById($pid).className = "o";
+    default: document.getElementById($parentid).className = "o";
 	}
 }
 
-/*This function is meant to be run when the user clicks the trash icon*/
+/*This function is meant to be run when the user clicks the trash icon. Will toggle the class of the parent element, the id of which is passed to the function on click. Is partnered with undoButtonClick.*/
+var lastActionArray = [];
 
-function trashButtonClick($pid){ document.getElementById($pid).className = "del"; }
+function trashButtonClick($parentid){
+	var $prevClass = document.getElementById($parentid).className;
+	document.getElementById($parentid).className = "del";
+	lastActionArray.unshift({id:$parentid, prevClass:$prevClass});
+}
+
+function undoButtonClick(){
+	var $undo = lastActionArray.shift();
+	document.getElementById($undo["id"]).className = $undo["prevClass"];
+}

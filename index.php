@@ -10,7 +10,9 @@
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li>Recharging Station setup (not in this repo)</li>
+	<li>Undo<ul>
+		<li class="x">Make button</li>
+		<li class="x">Undo del (button)</li>
 </ul>
 
 <h2>Open Projects</h2>
@@ -25,20 +27,6 @@
 
 <h2>Done This Week</h2>
 <ol>
-	<li class="x">todo.php</li>
-	<li class="x">Weekly Review</li>
-	<li class="x">wishcraft.php</li>
-	<li class="x">CSS .list p.x, .list p.x button</li>
-	<li class="x">CSS .list p.o, .list p.o button</li>
-	<li class="x">CSS .list .del</li>
-	<li class="x">Remove boxes from living room</li>
-	<li class="x">todo.js</li>
-	<li class="x">Sketch pseudocode</li>
-	<li class="x">Add Fontawesome stylesheet</li>
-	<li class="x">Add HTML/CSS del button</li>
-	<li class="x">JS onclick change class button research</li>
-	<li class="x">JS onclick change class button</li>
-	<li class="x">JS onclick hide deleted entry</li>
 </ol>
 </div>
 <div id="secondary">
@@ -79,6 +67,7 @@
 <ol>
 	<li>Week 4<ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-19/">Day 19</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-20/">Day 20</a></li>
 </div>
 <div class="leftfloat">
 </div>

@@ -11,11 +11,15 @@
 <h2>Possible Future Projects</h2>
 <ol>
 	<li>Extra MVP ToDo Features<ol>
+		<li>Switch out contenteditable?<ol>
+			<li>Read this: <a href="https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480#.ia8dwaxwq">Why Contenteditable is terrible</a></li></ol>
+		<li><a href="https://addyosmani.com/blog/mutation-observers/">Switch out event listeners for DOM mutation observers</a></li>
 		<li>Add Web Storage (HTML5 cookie equiv) for local save/load option</li>
 		<li>Multiple lists</li>
 		<li>Import/export: .csv, .txt, Markdown, .html</li>
 		<li>Active/Done list (disappear finished items)</li>
 		<li>Stats (when you checked off items, how long your streaks are on average, the oldest item, etc)</li>
+		<li><a href="http://jakiestfu.github.io/Medium.js/docs/">WYSIWYG type feature support thingies!</a></li>
 	</ol></li>
 	<li>Extra POP Ideas<ol>
 		<li>Mark Forster forum - after MVP ToDo launch. Call for testers when adding additional algorithm-specfic features.</li>

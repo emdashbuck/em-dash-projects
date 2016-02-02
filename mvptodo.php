@@ -32,8 +32,9 @@
 <ul>
 	<li class="x">Toggle styling of line item on click - box, dot, del</li>
 	<li>Undo<ul>
-		<li>Make button</li>
-		<li>Toggle del (button and ctnrl-z)</li>
+		<li class="x">Make button</li>
+		<li class="x">Undo del (button)</li>
+		<li>Undo del (ctnrl-z)</li>
 		<li>Undo recent text input (hook button to cntrl-z)</li>
 </ul>
 <h3>Week 4: Local Data Storage</h3>

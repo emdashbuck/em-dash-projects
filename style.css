@@ -66,13 +66,21 @@ li.maybe {
 	color: #333;
 }
 
+/*MVP ToDo*/
+.mvp-todo button {background-color:#fff; border-radius:0px; border:1px solid black; cursor:pointer;}
+.mvp-todo #primary {width:40%;}
 
+/*Controls*/
+.controls {
+    display: block;
+    margin-bottom: 5px;
+    line-height: 30px;
+}
+/*.controls h1 {display: inline; margin: 0px 0px 10px 0px;}*/
+#undo {font-size:1.5em; border:none;}
 
-/*List Styling*/
-.list {width: 40%;}
-.list button {background-color:#fff; border-radius:0px; border:1px solid black; cursor:pointer;}
+/*List*/
 /*.list p {display: inline-block;}*/
-
 .list p.x {text-decoration: line-through;}
 .list p.x button {background-image:url('/projects/inc/X.png'); background-size:100%;}
 
@@ -113,4 +121,4 @@ li.maybe {
 
 /*Phone Notecard*/
 #phonecard {margin-top: 16em;}
-#phonecard h1 {font-size: 8em;}
+#phonecard h1 {font-size: 6em;}
