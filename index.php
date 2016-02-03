@@ -68,6 +68,7 @@
 	<li>Week 4<ol>
 		<li><a href="http://emdashbuck.com/projects-daily-report-19/">Day 19</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-20/">Day 20</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-21/">Day 21</a></li>
 </div>
 <div class="leftfloat">
 </div>
