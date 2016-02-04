@@ -6,10 +6,12 @@
 </head>
 <body>
 <div id="phonecard">
-<h1>Washer/dryer empty</h1>
-<h1>Call Ariel re: dolly on Thu</h1>
+<h1>LAUNDRY</h1>
+<h1>Service Request</h1>
 <h1>Groceries</h1>
 <ul style="font-size:4em;">
+	<li>Milk</li>
+	<li>Creamer</li>
 	<li>Equal amounts<ul>
 		<li>Green Cabbage</li>
 		<li>3 Leek?</li>
