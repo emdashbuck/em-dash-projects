@@ -6,27 +6,25 @@
 </head>
 
 <body>
-<h1>Primary: MVP ToDo 2 - Input and Display</h1>
+<h1>Primary: ADA Application</h1>
 <div id="primary">
 <h2>Today's Goals</h2>
 <ul>
-	<li>Undo<ul>
-		<li class="x">Make button</li>
-		<li class="x">Undo del (button)</li>
+	<li class="x">Survey</li>
+	<li>Update Resume</li>
 </ul>
 
 <h2>Open Projects</h2>
 <ol>
+	<li><a href=https://application.adadevelopersacademy.org/>ADA Application</a></li>
 	<li><a href="http://www.emdashbuck.com/projects/mvptodo.php">Minimum Viable Todo List</a></li>
-	<li><a href="http://www.emdashbuck.com/projects/wishcraft.php">Wishcraft</a></li>
-</ol>
-<h3>On Hold</h3>
-<ol>
-	<li><a href="http://www.emdashbuck.com/projects/propres.php">Professional Online Presence</a></li>
 </ol>
 
 <h2>Done This Week</h2>
 <ol>
+	<li class="x">Reserve spot at info session</li>
+	<li class="x">Find latest resume version</li>
+	<li class="x">Look up when next ADA cohort application opens - LATER THIS WEEK!?</li>
 </ol>
 </div>
 <div id="secondary">
@@ -70,6 +68,25 @@
 		<li><a href="http://emdashbuck.com/projects-daily-report-20/">Day 20</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-21/">Day 21</a></li>
 		<li><a href="http://emdashbuck.com/projects-daily-report-22/">Day 22</a></li>
+		<li>Thursday</li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-23/">Day 23</a></li>
+		<li>Saturday</li>
+		</ol></li>
+	<li>Week 5<ol>
+		<li><a href="http://emdashbuck.com/projects-daily-report-24/">Day 24</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-25/">Day 25</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-26/">Day 26</a></li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-27/">Day 27</a></li>
+		<li>Thursday</li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-28/">Day 28</a></li>
+		<li>Saturday</li>
+		</ol></li>
+	<li>Week 6<ol>
+		<li><a href="http://emdashbuck.com/projects-daily-report-29/">Day 29</a></li>
+		<li>Sunday</li>
+		<li>Monday</li>
+		<li><a href="http://emdashbuck.com/projects-daily-report-30/">Day 30</a></li>
+		</ol></li>
 </div>
 <div class="leftfloat">
 </div>

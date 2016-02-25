@@ -39,6 +39,13 @@
 	<li>Knit a sweater</li>
 	<li>Automate Project Report links + Spoon Report form (WP custom field?)</li>
 	<li>Food stamps</li>
+	<li>Plugin for Chrome that tracks how often I click the "Pocket" button for Pocket in/out scoring</li>
+	<li>Open Source CPAP SD Card data interpreter (find or create)</li>
+	<li>Find an Open Source project to work on</li>
+	<li>Automate Project Report links + Spoon Report form (WP custom field?)</li>
+	<li>Set up emdashbuck.com/habits (BWAHAHAHA)</li>
+	<li>Habitcal (AHAHAHAHAHA)</li>
+	<li>Visual representation of digital stuff I've gotten rid of</li>
 </ol>
 </div>
 
